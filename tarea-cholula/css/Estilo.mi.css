@@ -1,0 +1,17 @@
+body{
+    background-color:  #700909  ;
+    background-image: url(img/san.png);
+}
+.principal{
+    background-color: #700909;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+} 
+.fluid{
+    background-color: #ffff99;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+} 

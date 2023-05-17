@@ -1,0 +1,22 @@
+body{
+    background-color:  #700909  ;
+    
+    
+}
+.container1{
+    background-image: url(flor.png);
+    height: 50vh;
+}
+.principal{
+    background-color: #700909;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+} 
+.fluid{
+    background-color: #ffff99;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+} 
